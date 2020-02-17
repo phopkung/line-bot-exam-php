@@ -49,7 +49,7 @@ if (!is_null($events['events'])) {
 				echo $result . "\r\n";
 			}else{
 				// Get text sent
-				$text = 'ไรหยอ';
+				$text = 'ไรหยออ';
 				// Get replyToken
 				$replyToken = $event['replyToken'];
 
